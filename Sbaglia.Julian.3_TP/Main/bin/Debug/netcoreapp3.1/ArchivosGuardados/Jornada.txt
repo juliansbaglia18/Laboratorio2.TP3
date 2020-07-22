@@ -1,0 +1,24 @@
+CLASE DE Legislacion POR NOMBRE COMPLETO: Juarez, Roberto
+NACIONALIDAD: Argentino
+
+LEGAJO NúMERO: 2
+CLASES DEL DIA: 
+SPD
+Legislacion
+
+ALUMNOS: 
+NOMBRE COMPLETO: Hernandez, Miguel
+NACIONALIDAD: Extranjero
+
+LEGAJO NúMERO: 4
+
+ESTADO DE CUENTA: Cuota al dia
+TOMA CLASES DE Legislacion
+NOMBRE COMPLETO: Smith, Rodrigo
+NACIONALIDAD: Argentino
+
+LEGAJO NúMERO: 8
+
+ESTADO DE CUENTA: Cuota al dia
+TOMA CLASES DE Legislacion
+
