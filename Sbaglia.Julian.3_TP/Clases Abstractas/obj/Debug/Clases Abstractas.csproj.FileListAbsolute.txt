@@ -1,0 +1,9 @@
+C:\Users\Usuario\Desktop\UTN\Prog-Lab2\Trabajos Practicos\Sbaglia.Julian.3_TP\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\Usuario\Desktop\UTN\Prog-Lab2\Trabajos Practicos\Sbaglia.Julian.3_TP\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\Usuario\Desktop\UTN\Prog-Lab2\Trabajos Practicos\Sbaglia.Julian.3_TP\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\UTN\Prog-Lab2\Trabajos Practicos\Sbaglia.Julian.3_TP\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\UTN\Prog-Lab2\Trabajos Practicos\Sbaglia.Julian.3_TP\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\UTN\Prog-Lab2\Trabajos Practicos\Sbaglia.Julian.3_TP\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UTN\Prog-Lab2\Trabajos Practicos\Sbaglia.Julian.3_TP\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\Usuario\Desktop\UTN\Prog-Lab2\Trabajos Practicos\Sbaglia.Julian.3_TP\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\Usuario\Desktop\UTN\Prog-Lab2\Trabajos Practicos\Sbaglia.Julian.3_TP\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
