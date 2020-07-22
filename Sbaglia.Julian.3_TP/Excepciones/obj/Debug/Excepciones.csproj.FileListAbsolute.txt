@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\UTN\Prog-Lab2\Trabajos Practicos\Sbaglia.Julian.3_TP\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\UTN\Prog-Lab2\Trabajos Practicos\Sbaglia.Julian.3_TP\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Usuario\Desktop\UTN\Prog-Lab2\Trabajos Practicos\Sbaglia.Julian.3_TP\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\UTN\Prog-Lab2\Trabajos Practicos\Sbaglia.Julian.3_TP\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UTN\Prog-Lab2\Trabajos Practicos\Sbaglia.Julian.3_TP\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Usuario\Desktop\UTN\Prog-Lab2\Trabajos Practicos\Sbaglia.Julian.3_TP\Excepciones\obj\Debug\Excepciones.pdb
